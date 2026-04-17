@@ -1,4 +1,6 @@
 .idea
 .DS_Store
 node_modules/
+serviceAccountKey.json
+.env
 App/firebaseConfig.ts
